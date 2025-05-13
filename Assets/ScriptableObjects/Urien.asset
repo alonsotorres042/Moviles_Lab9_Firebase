@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 588bbede0ec2c2d43b789b0b137f7da6, type: 3}
+  m_Name: Urien
+  m_EditorClassIdentifier: 
+  CharacterSprite: {fileID: 1237690502, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+  CharacterName: {fileID: 433488447, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+  CharacterLogo: {fileID: -945888595, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+  CharacterArt1:
+    SuperArtNum: {fileID: -188573645, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    SuperArtName: {fileID: 1998389919, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    SuperArtCommands:
+    - {fileID: -472655224, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: -472655224, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: -1001347870, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: 2034823178, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+  CharacterArt2:
+    SuperArtNum: {fileID: -108675296, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    SuperArtName: {fileID: 449384264, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    SuperArtCommands:
+    - {fileID: -52438618, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: -52438618, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: -1001347870, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: 2034823178, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+  CharacterArt3:
+    SuperArtNum: {fileID: -1207693827, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    SuperArtName: {fileID: -219262095, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    SuperArtCommands:
+    - {fileID: -472655224, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: -472655224, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: -1001347870, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: 2034823178, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: 1479066094, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: -472655224, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: -1929912675, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}
+    - {fileID: -406350122, guid: 579fa8cda81817a4e866c814fc71a72c, type: 3}

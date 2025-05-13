@@ -1,0 +1,4130 @@
+fileFormatVersion: 2
+guid: 579fa8cda81817a4e866c814fc71a72c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterSelect_0
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2971
+        width: 384
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0957bc8f984e1a40bff540f992ca3bf
+      internalID: -2100991694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2939
+        width: 212
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c75424712879040a4035da1d0172f1
+      internalID: 767965912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2939
+        width: 212
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b205f251bc954944a9214bd3901028eb
+      internalID: -488622785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2939
+        width: 224
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c9924b959157c4292a64bf6d713f25
+      internalID: -886857522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2907
+        width: 212
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec3253102cd0ce4e925b456a60a238d
+      internalID: 386135326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2907
+        width: 224
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b49b1fd05d687479e2d9c3c2b4092d
+      internalID: 753458961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Logo
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2870
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1078664a8a0afa41bf3b7333a12c240
+      internalID: 2119380374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2863
+        width: 124
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20aace07a66f234e94908b65d8c63b9
+      internalID: -791012206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTimer_1
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2883
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0c4aac6b2dd4546a6431cb5016b0a3
+      internalID: 151651074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTimer_2
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2883
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca909d14d7170764f9bf16f9ef2e7a6f
+      internalID: -644418220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTimer_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2883
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8511026acedc3494aa0ab8195ed436e2
+      internalID: 190643635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTimer_4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2883
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a2645c4af46f446a04946dd4bc4008
+      internalID: 150540656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTimer_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2883
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88704162c9188d498f0747dffa86974
+      internalID: -873037450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTimer_6
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2883
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48549026717f594bb71e1429465ea7a
+      internalID: -1702695796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTimer_7
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2883
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bac389afd16174d9f5ad555a678617
+      internalID: -1215055849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTimer_8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2883
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a3fefda9218124493aec1e3aa7ddc9
+      internalID: -315946269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTimer_9
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2883
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44b15dbdd607142aae1fb466a9d1c0
+      internalID: -1282186486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterTimer_0
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2883
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3232073612e0f4a99dc56816f1f759
+      internalID: 705506362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gouki_Logo
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2855
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f753c2235b8bb714d8056cab3a1557b5
+      internalID: 349246468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Logo
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2855
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16237f651cb7a6c49b816f3626155e50
+      internalID: 31872419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArtTimer_1
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc67b11e901dde4a8dea81d0e7e89c4
+      internalID: -437941059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArtTimer_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b1a32ac5a77d04294973a899f98d83
+      internalID: 313937489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArtTimer_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3386a52ef94b84f8a9eb6cf023a178
+      internalID: -1008273132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArtTimer_4
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffbe120c72d2ee49ad7265a95d0641b
+      internalID: -1768609444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArtTimer_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd1d37e9c71dc3499ecdcbe99d9d9df
+      internalID: 2062730340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArtTimer_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1719917daad92674eb7b594c9934d7ee
+      internalID: 523916424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArtTimer_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 2865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4114ac1f02394ef40a14b7c9e350a126
+      internalID: 1235265498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArtTimer_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 2865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a39a016e7c526e46bb47d4d5eece4f1
+      internalID: 914939455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArtTimer_9
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d7296431f688429a3df949cfb9fc7
+      internalID: -1841884703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArtTimer_0
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2865
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f64d646b8aff47b351ec947094ea3
+      internalID: -560179061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urien_Logo
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2823
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fc1612ce35157489179d2d7164a5c0
+      internalID: -945888595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remy_Logo
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2838
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac331884c059d014ba8706817ddf6282
+      internalID: 97738990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oro_Logo
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2823
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e8b1f43ed131045a81d7c8908a1714
+      internalID: 724797163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Art1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2845
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1e58f896ad1f44a9003b7582fccbe5
+      internalID: -188573645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Art2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2845
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a51b9eaa4c494c428d2059885bc5d96
+      internalID: -108675296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Art3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2845
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe62f9b6bf8dfa4c8095833ad19e464
+      internalID: -1207693827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_38
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2840
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccc03d9a791d524fbd5a1f8bd03a5cf
+      internalID: -2077118774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q_Logo
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2806
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fed208b94aefb541abdf8c907252a21
+      internalID: -1448624817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_QuarterForward
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2828
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f55203cbbec54c4a94a8881469e3a10
+      internalID: -472655224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_FullCircle
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2828
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34400d7b089fc24eaca16452e232581
+      internalID: 1842326940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_Punch
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2828
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98131b24d35430a478e5b2e89e160e8f
+      internalID: 2034823178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_Kick
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2828
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbfd2c8d790c3740aa6955d8ef3f8aa
+      internalID: 15931421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_Plus
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2828
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f89a69f3f553468ef4d9db4e403e7
+      internalID: -1001347870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_45
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2802
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8daba56f60e2854487a62e53a4e7015
+      internalID: 1361132810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_46
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2802
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eebf144806d4044ab5764794c2c4d3b
+      internalID: -1289349898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_47
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2802
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da079e4651388b94085d5be956ec4062
+      internalID: 112002649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_48
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2802
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8582656eab4fc6c4c8c739a0c5489286
+      internalID: -191294206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necro_Logo
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2791
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c157c3c9834e2004fb3f7ff27346d1bd
+      internalID: -2137047544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dudley_Logo
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2791
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75973d6945e9b24e8ec348d9b281c95
+      internalID: 55089466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_Status01
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2809
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce5fd0ba053ac24ab89ac528df4d76e
+      internalID: 1479066094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_Status02
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2809
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39964a94255268c49b1dd9a2e85a8d01
+      internalID: -1877329674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_Status03
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2809
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcbc44741dd75146aef8885e5995f04
+      internalID: 1821238488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_Status04
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2809
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8949114459ba60e4c9fe508e13479c09
+      internalID: 2117670368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_Status05
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2809
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989ba27f643029b4f9f11199c1af2ee9
+      internalID: 772137716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunLi_Logo
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2774
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765427947144f284798dbb5535049a18
+      internalID: 939954428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_QuarterBackward
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2791
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1449603c3d41a546a29c1f7b0a2507a
+      internalID: -52438618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_MiniPlus
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2790
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad774ebed4572840be1b92b2cb4570a
+      internalID: -1929912675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Command_PunchKick
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2789
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218f1a41b0e75a5439fde1dc0b3039f0
+      internalID: -406350122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_60
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2769
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7cc29ecf3c4f642a2c6e5e20a248b9
+      internalID: 626597200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_61
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2769
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291060a48e9b87b44ace490c9446b7ea
+      internalID: -1286616209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_62
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2769
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bcd14522d4c044e89ad5328038e2ed
+      internalID: 2145935483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_63
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2769
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7b46402b02d1e4c974c91b7388fd1b
+      internalID: 200570822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ibuki_Logo
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2759
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16cd6347a69c9d40b338a2268566685
+      internalID: -24282760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto_Logo
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2742
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f128b1d73eb4ef84b9d1a518ed3be6d0
+      internalID: 195380977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elena_Logo
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2759
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39b35b4b5e51745a4813ae8dd8a166
+      internalID: 1422660154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_67
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2765
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3a330ab18164341a430d595e3d7a71
+      internalID: -1634889703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_68
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2765
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6933655e00fa43147b595294bc851d60
+      internalID: -758498634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_69
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2765
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0c91cd611f02f468609d318e74f4b2
+      internalID: 1513314799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_70
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2765
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eeab57bcf5d674da12feac203d7c27
+      internalID: 2130876676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_Logo
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2727
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed04f0fa22db85468574735c4b2a3f4
+      internalID: -923018947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hugo_Logo
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2727
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b9cf000ca30c648ad6bbb7d8c95161
+      internalID: 240920585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_74
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2742
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a73b8d891786bf48bb96fe450eb608a
+      internalID: -502490927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_75
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2742
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48277731eaeda40a7ab5eaeff9b88f
+      internalID: 736153414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_76
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2742
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22abc408ce8708542818614529c2124b
+      internalID: 73350078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_77
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2742
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5cad32a423ce047b39b85657d5489f
+      internalID: 213736280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alex_Logo
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2695
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd99b67a95b2b64abaf423facc9454e
+      internalID: -807344546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twelve_Logo
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2710
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287ec006c162e164b94c17b6b908ca52
+      internalID: 442920010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken_Logo
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2695
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1542223f868cb71418fcd4c07304b34a
+      internalID: 39235719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_83
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2719
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a2bd027a778574aa22ca4eff17f50d
+      internalID: -47573333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_84
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2719
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2cb323d1a39ee4ab251615c416615a
+      internalID: -756634468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSelect_85
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2719
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b16ccfe421f8c43988f50e641635e9
+      internalID: 1638856360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yang_Logo
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2678
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d410dfc18d524c4458f77e38064f19c4
+      internalID: -1617611528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alex_Sprite
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2428
+        width: 384
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b38379e8689b74093971bd9bc32d82
+      internalID: 418258968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Sprite
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2428
+        width: 384
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43961200bad915f478f7a8e96b25ec4c
+      internalID: 1140305218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_Sprite
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2428
+        width: 244
+        height: 248
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a421875637b98f44aa1d1b7a749e9f5e
+      internalID: -661098452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alex_Name
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2406
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99927b1808d85f5408624d4b5aeb1117
+      internalID: -810511064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Name
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2406
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3cd813e3790dd439cff32cbdbe985c
+      internalID: 918983106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_Name
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2406
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbb8d917964a8648b9d2118d8b5032e
+      internalID: -455257596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alex_Art1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2386
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb605d540bc81b498e578c11d5d8c15
+      internalID: 1573491925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Art1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2386
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039bdc82ce8d9d143a33cc7825bdd8c9
+      internalID: 500999889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_Art1
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2386
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1579b9844a6afc5439177474ac63a2ac
+      internalID: 1135036084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alex_Art2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2367
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da05659be1c35c040a09ba111be7e563
+      internalID: -573584130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Art2
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2366
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c05b72f351f6fc479d4795403d6f071
+      internalID: -1268013309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_Art2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2367
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3cd75c35057b146ba5d019e2353bdd
+      internalID: 1859436986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alex_Art3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2348
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8987558b5e8ff314d97012dff96fea9c
+      internalID: -1585524533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ryu_Art3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2346
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6749bc21caaf94cbf2508f7f540506
+      internalID: 179709331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_Art3
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2348
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d85414ce677d844a22ceb7e7d67304
+      internalID: 480997571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oro_Sprite
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2124
+        width: 248
+        height: 224
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191c0dd775781f41950fc8cf643e457
+      internalID: 664294157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ibuki_Sprite
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2123
+        width: 280
+        height: 224
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f827cfd948a7d8e4ebd9352418d141a5
+      internalID: -2064552864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dudley_Sprite
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2123
+        width: 400
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148981d2c7fae6d4ab08e7de9ade206b
+      internalID: -139713486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oro_Name
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2101
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ebe35f6cf278744832a1e7e1fad62c
+      internalID: 541228849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ibuki_Name
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2101
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93fc85fae5095245b78c366261d3e09
+      internalID: 1542882135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dudley_Name
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2101
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c355dd9445c034bbfa018ef1d92d97
+      internalID: 1672614227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oro_Art1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2081
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c092160b7fbfc1e498bfe947369f5500
+      internalID: -962545331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ibuki_Art1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2081
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d380a6792ebf5c64bb837b02c6be5ef2
+      internalID: 821346904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dudley_Art1
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2081
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217285a2f5453684ebff81d68b9b0a41
+      internalID: -1288373765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oro_Art2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2061
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ef39709703d484896aaed38a893cba
+      internalID: -2124361218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ibuki_Art2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2061
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20219871c317c8345b8d044c7df52c75
+      internalID: -1412289336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dudley_Art2
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2062
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7f090efeacca748bb709817c06014d
+      internalID: -739475580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oro_Art3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2041
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a81fdba345dfc459974c8be7dec796
+      internalID: -347514719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ibuki_Art3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2041
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5598fa7180126de44925eff19fa135e8
+      internalID: -1262325852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dudley_Art3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2044
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ad7f78a746307448c094372701d02d
+      internalID: 1042462595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elena_Sprite
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1815
+        width: 308
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74316a488902ea645898310187c5dd34
+      internalID: 393158722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necro_Sprite
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1815
+        width: 308
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd662d5e101f084f90d53bfc83bb560
+      internalID: 95880857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken_Sprite
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1815
+        width: 308
+        height: 226
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00580cf1d1f91643827a923aaaff14f
+      internalID: -1678947982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elena_Name
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1793
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3358fce422c31f4486790e8ed4f01a6
+      internalID: 1510491724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necro_Name
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1793
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2187ab82cab1f48ab0f21443c71c28
+      internalID: -1671908997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken_Name
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1793
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2677e452262031347ba0971ecf93eda8
+      internalID: 549264831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elena_Art1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1772
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24ec34c242fcf1448dbd61400136553
+      internalID: 1271501844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necro_Art1
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1773
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b4e85785e1e6b43806dfef96257241
+      internalID: -1941100633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken_Art1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1773
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24a40e510c14b644be17237654e53cf
+      internalID: -1591729478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elena_Art2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1752
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c216d90b5c7eb498b880258667dbff
+      internalID: 1914145286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necro_Art2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1754
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5272977d5ffda9e45938fac60ebfdec5
+      internalID: 1948581565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken_Art2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1753
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8a2e032e0061c47bdd8f8a3e364334
+      internalID: -1004913289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elena_Art3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1733
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4c2762cf1474445a6ea1ddca14a88b
+      internalID: -867937594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necro_Art3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1735
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d303fc59109d74d802b07998ab5790
+      internalID: 1146655693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ken_Art3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1733
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f8d7a9df887924e8e07fdbaf60a7d1
+      internalID: -1260255410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Sprite
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1467
+        width: 344
+        height: 248
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d51deeeaad1a4499188dc93276895e
+      internalID: 1732061196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yang_Sprite
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1467
+        width: 284
+        height: 248
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43526cf7fa504344da0cc8fc1da1e55c
+      internalID: -1666648341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hugo_Sprite
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1467
+        width: 350
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1da13726d6f844d89920f2d840bee7
+      internalID: -422246761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Name
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1445
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ec8385b0f04374382aefe2f230a144
+      internalID: -956502605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yang_Name
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1445
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b4ed2e10e48e146b3469f8d5a6a28e
+      internalID: -1001775908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hugo_Name
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1445
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a2cc50cab58a4192ad3e892ac7c59
+      internalID: -1697920026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Art1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1425
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de3f93e3fe095d4ead533d65f3b9886
+      internalID: 1118283437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yang_Art1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1425
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a7a54257299364e8aa4756574700ae
+      internalID: 662443593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hugo_Art1
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1425
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3520fe721eb87dd42928ecbd2ac8df79
+      internalID: 1713803518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Art2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1405
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fa5a9d3d799b34e883d53df4d797fb
+      internalID: 1854555223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yang_Art2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1405
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea95ee2af22d354199dab7bd859b270
+      internalID: -1839413495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hugo_Art2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1407
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cee6d3de374bb4898ef22d288ecb71
+      internalID: -1164682617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yun_Art3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1385
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f282acbf0453d184dbe6fa56be22497c
+      internalID: 1791669977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yang_Art3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1385
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b900ee9833aa994cb85296f8707b71d
+      internalID: -1106940218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hugo_Art3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1388
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8bfcdb3ba6354d9150d67a14b339c
+      internalID: -1236345045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urien_Sprite
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1129
+        width: 320
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c16f4549ebe3764f9cf38dc7511e6af
+      internalID: 1237690502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gouki_Sprite
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1129
+        width: 320
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f99c3153ae841f4da67d3a2b5869967
+      internalID: -1934817563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remy_Sprite
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1129
+        width: 320
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3f0a43e07fe714bb38b7dc04864b1a
+      internalID: 1741461614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urien_Name
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1107
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800285d23c796040a691619fa6f723e
+      internalID: 433488447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gouki_Name
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1107
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f9e97b449b159409a4a57c8e0289d4
+      internalID: -1276071724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remy_Name
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1107
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96423c1ef94642e4bad2ef2e7018a3b6
+      internalID: -1410703662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urien_Art1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1087
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31d708f4c35f8f45adbe596825c4729
+      internalID: 603035262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gouki_Art1
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1087
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a758e76b93542941803ef69abc59768
+      internalID: -2020368700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remy_Art1
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1087
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cb740ac77b70b459340e4974374d9e
+      internalID: 1923744051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urien_Art2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1067
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620c67f71a337fe45ba0264698ff38ab
+      internalID: -1118287049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gouki_Art2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1067
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02348c237d2d5b74d877c6e2a3a2c725
+      internalID: 790927476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remy_Art2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1067
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f09c09f893b494dbc356be9cd1bee5
+      internalID: -1916727773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urien_Art3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1048
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddf2742739d4e54dabca33036fad8b6
+      internalID: -356555097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gouki_Art3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1047
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5391c80f5359de3428ccaaf3abe20960
+      internalID: -213272444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remy_Art3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1048
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c95f664711a77d4d959b43f1474ca23
+      internalID: 240433996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q_Sprite
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 809
+        width: 282
+        height: 230
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d97e54bda4dc64c9f209de2ba1d317
+      internalID: -931946757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto_Sprite
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 809
+        width: 282
+        height: 230
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0022951c4fb7f49a5a389ec3248874
+      internalID: -1905687118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twelve_Sprite
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 809
+        width: 282
+        height: 230
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efea0c6324338b4bbdf7099e6075363
+      internalID: -909435990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q_Name
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 787
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb6bcf8d334cba499befc123149ee19
+      internalID: 1478228573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto_Name
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 787
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4ec53e3de141f4c9169cd25dde8928
+      internalID: 2015581377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twelve_Name
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 787
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d84ad934e80df54ca7982a98d346171
+      internalID: -2097863135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q_Art1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 767
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f1a984e2bd62d45850e594f2c0e948
+      internalID: 1293092994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto_Art1
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 768
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c697a7b6a4a17c4db918314eacc70b3
+      internalID: 1998389919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twelve_Art1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 767
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24966d0c4605bd243ab5909443fbc0cc
+      internalID: -686789259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q_Art2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 747
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca228f807b857546b07960b07079aed
+      internalID: 1885371007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto_Art2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 750
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3fa4e916f126e43b05d4f0da61796d
+      internalID: 449384264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twelve_Art2
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 749
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d1b9352e5614d45ab3f484f66d5823
+      internalID: 1187186283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q_Art3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 727
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283c4c239293bff47b01e4a34849a6f8
+      internalID: 1765218084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Makoto_Art3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 732
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be3522584f285468aad9d439f0df46
+      internalID: -219262095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Twelve_Art3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 729
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db885b9bf4eccc4791b40da5e75a36d
+      internalID: 908117147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunLi_Sprite
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 502
+        width: 310
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453d8f86638b7274cb47e99c73b166e7
+      internalID: -2017201975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunLi_Name
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 480
+        width: 164
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac92473492ea4f4db584a92f5f25dd8
+      internalID: 108731128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunLi_Art1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 460
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b8447e4cbcdf4cafa4e9b1ee7070f
+      internalID: 721151996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunLi_Art2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 440
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166a6dcd820bd764db34ac41e0cd91f5
+      internalID: 500605826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChunLi_Art3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 420
+        width: 116
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef6e62db4ab2ba4a911dc40b41b8426
+      internalID: -1260475203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 187
+        width: 382
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d046295b3a4914aaca71667c5a2d3e
+      internalID: -19507128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Alex_Art1: 1573491925
+      Alex_Art2: -573584130
+      Alex_Art3: -1585524533
+      Alex_Logo: -807344546
+      Alex_Name: -810511064
+      Alex_Sprite: 418258968
+      Art1: -188573645
+      Art2: -108675296
+      Art3: -1207693827
+      ArtTimer_0: -560179061
+      ArtTimer_1: -437941059
+      ArtTimer_2: 313937489
+      ArtTimer_3: -1008273132
+      ArtTimer_4: -1768609444
+      ArtTimer_5: 2062730340
+      ArtTimer_6: 523916424
+      ArtTimer_7: 1235265498
+      ArtTimer_8: 914939455
+      ArtTimer_9: -1841884703
+      Background: -19507128
+      CharacterSelect_0: -2100991694
+      CharacterSelect_1: 208273081
+      CharacterSelect_115: -1938974947
+      CharacterSelect_175: -921747500
+      CharacterSelect_176: -1785035452
+      CharacterSelect_186: -1278375242
+      CharacterSelect_187: 980097383
+      CharacterSelect_188: 1828602042
+      CharacterSelect_189: -1905408268
+      CharacterSelect_190: 1506075988
+      CharacterSelect_191: 1688283291
+      CharacterSelect_192: 1733355146
+      CharacterSelect_193: 887745692
+      CharacterSelect_194: 1631811706
+      CharacterSelect_195: -1151919483
+      CharacterSelect_196: 1023039908
+      CharacterSelect_197: 1000119752
+      CharacterSelect_198: -1336795275
+      CharacterSelect_199: -1679149731
+      CharacterSelect_2: 1872407985
+      CharacterSelect_200: -12397913
+      CharacterSelect_201: 1953778991
+      CharacterSelect_202: 261275128
+      CharacterSelect_203: -1504002144
+      CharacterSelect_204: 2114653229
+      CharacterSelect_205: 1968907447
+      CharacterSelect_206: 1544565974
+      CharacterSelect_207: -758247799
+      CharacterSelect_208: 330415984
+      CharacterSelect_209: 1134953996
+      CharacterSelect_210: 1402270184
+      CharacterSelect_211: 297323089
+      CharacterSelect_212: -180068927
+      CharacterSelect_213: 1936863934
+      CharacterSelect_214: 259819299
+      CharacterSelect_215: -420851324
+      CharacterSelect_216: -1375211781
+      CharacterSelect_217: 597498383
+      CharacterSelect_218: -1441523287
+      CharacterSelect_219: 436904461
+      CharacterSelect_220: 561892742
+      CharacterSelect_221: -1610173770
+      CharacterSelect_222: 1474063632
+      CharacterSelect_223: 1777043055
+      CharacterSelect_224: -311457764
+      CharacterSelect_225: 1979177766
+      CharacterSelect_226: 1642650010
+      CharacterSelect_227: -1438974069
+      CharacterSelect_228: -1607134261
+      CharacterSelect_229: 428296826
+      CharacterSelect_230: -1980218041
+      CharacterSelect_231: 632415672
+      CharacterSelect_232: 1148387482
+      CharacterSelect_233: 972731086
+      CharacterSelect_234: -822657126
+      CharacterSelect_235: -706786715
+      CharacterSelect_236: -274152912
+      CharacterSelect_237: 2018599588
+      CharacterSelect_238: 260745298
+      CharacterSelect_239: 173235906
+      CharacterSelect_240: 1552035159
+      CharacterSelect_241: -604843212
+      CharacterSelect_242: -204390522
+      CharacterSelect_243: 452037315
+      CharacterSelect_244: 385899914
+      CharacterSelect_245: -950023350
+      CharacterSelect_246: 1525849407
+      CharacterSelect_247: -1267622568
+      CharacterSelect_248: -601029922
+      CharacterSelect_249: -975343247
+      CharacterSelect_250: 399341404
+      CharacterSelect_251: 1723183805
+      CharacterSelect_3: 767965912
+      CharacterSelect_38: -2077118774
+      CharacterSelect_4: -488622785
+      CharacterSelect_45: 1361132810
+      CharacterSelect_46: -1289349898
+      CharacterSelect_47: 112002649
+      CharacterSelect_48: -191294206
+      CharacterSelect_5: -886857522
+      CharacterSelect_6: 386135326
+      CharacterSelect_60: 626597200
+      CharacterSelect_61: -1286616209
+      CharacterSelect_62: 2145935483
+      CharacterSelect_63: 200570822
+      CharacterSelect_67: -1634889703
+      CharacterSelect_68: -758498634
+      CharacterSelect_69: 1513314799
+      CharacterSelect_7: 753458961
+      CharacterSelect_70: 2130876676
+      CharacterSelect_71: -403347254
+      CharacterSelect_74: -502490927
+      CharacterSelect_75: 736153414
+      CharacterSelect_76: 73350078
+      CharacterSelect_77: 213736280
+      CharacterSelect_78: -136921864
+      CharacterSelect_79: -1275563747
+      CharacterSelect_83: -47573333
+      CharacterSelect_84: -756634468
+      CharacterSelect_85: 1638856360
+      CharacterSelect_9: -791012206
+      CharacterTimer_0: 705506362
+      CharacterTimer_1: 151651074
+      CharacterTimer_2: -644418220
+      CharacterTimer_3: 190643635
+      CharacterTimer_4: 150540656
+      CharacterTimer_5: -873037450
+      CharacterTimer_6: -1702695796
+      CharacterTimer_7: -1215055849
+      CharacterTimer_8: -315946269
+      CharacterTimer_9: -1282186486
+      ChunLi_Art1: 721151996
+      ChunLi_Art2: 500605826
+      ChunLi_Art3: -1260475203
+      ChunLi_Logo: 939954428
+      ChunLi_Name: 108731128
+      ChunLi_Sprite: -2017201975
+      Command_FullCircle: 1842326940
+      Command_Kick: 15931421
+      Command_MiniPlus: -1929912675
+      Command_Plus: -1001347870
+      Command_Punch: 2034823178
+      Command_PunchKick: -406350122
+      Command_QuarterBackward: -52438618
+      Command_QuarterForward: -472655224
+      Command_Status01: 1479066094
+      Command_Status02: -1877329674
+      Command_Status03: 1821238488
+      Command_Status04: 2117670368
+      Command_Status05: 772137716
+      Dudley_Art1: -1288373765
+      Dudley_Art2: -739475580
+      Dudley_Art3: 1042462595
+      Dudley_Logo: 55089466
+      Dudley_Name: 1672614227
+      Dudley_Sprite: -139713486
+      Elena_Art1: 1271501844
+      Elena_Art2: 1914145286
+      Elena_Art3: -867937594
+      Elena_Logo: 1422660154
+      Elena_Name: 1510491724
+      Elena_Sprite: 393158722
+      Gouki_Art1: -2020368700
+      Gouki_Art2: 790927476
+      Gouki_Art3: -213272444
+      Gouki_Logo: 349246468
+      Gouki_Name: -1276071724
+      Gouki_Sprite: -1934817563
+      Hugo_Art1: 1713803518
+      Hugo_Art2: -1164682617
+      Hugo_Art3: -1236345045
+      Hugo_Logo: 240920585
+      Hugo_Name: -1697920026
+      Hugo_Sprite: -422246761
+      Ibuki_Art1: 821346904
+      Ibuki_Art2: -1412289336
+      Ibuki_Art3: -1262325852
+      Ibuki_Logo: -24282760
+      Ibuki_Name: 1542882135
+      Ibuki_Sprite: -2064552864
+      Ken_Art1: -1591729478
+      Ken_Art2: -1004913289
+      Ken_Art3: -1260255410
+      Ken_Logo: 39235719
+      Ken_Name: 549264831
+      Ken_Sprite: -1678947982
+      Makoto_Art1: 1998389919
+      Makoto_Art2: 449384264
+      Makoto_Art3: -219262095
+      Makoto_Logo: 195380977
+      Makoto_Name: 2015581377
+      Makoto_Sprite: -1905687118
+      Necro_Art1: -1941100633
+      Necro_Art2: 1948581565
+      Necro_Art3: 1146655693
+      Necro_Logo: -2137047544
+      Necro_Name: -1671908997
+      Necro_Sprite: 95880857
+      Oro_Art1: -962545331
+      Oro_Art2: -2124361218
+      Oro_Art3: -347514719
+      Oro_Logo: 724797163
+      Oro_Name: 541228849
+      Oro_Sprite: 664294157
+      Q_Art1: 1293092994
+      Q_Art2: 1885371007
+      Q_Art3: 1765218084
+      Q_Logo: -1448624817
+      Q_Name: 1478228573
+      Q_Sprite: -931946757
+      Remy_Art1: 1923744051
+      Remy_Art2: -1916727773
+      Remy_Art3: 240433996
+      Remy_Logo: 97738990
+      Remy_Name: -1410703662
+      Remy_Sprite: 1741461614
+      Ryu_Art1: 500999889
+      Ryu_Art2: -1268013309
+      Ryu_Art3: 179709331
+      Ryu_Logo: 31872419
+      Ryu_Name: 918983106
+      Ryu_Sprite: 1140305218
+      Sean_Art1: 1135036084
+      Sean_Art2: 1859436986
+      Sean_Art3: 480997571
+      Sean_Logo: -923018947
+      Sean_Name: -455257596
+      Sean_Sprite: -661098452
+      Twelve_Art1: -686789259
+      Twelve_Art2: 1187186283
+      Twelve_Art3: 908117147
+      Twelve_Logo: 442920010
+      Twelve_Name: -2097863135
+      Twelve_Sprite: -909435990
+      Urien_Art1: 603035262
+      Urien_Art2: -1118287049
+      Urien_Art3: -356555097
+      Urien_Logo: -945888595
+      Urien_Name: 433488447
+      Urien_Sprite: 1237690502
+      Yang_Art1: 662443593
+      Yang_Art2: -1839413495
+      Yang_Art3: -1106940218
+      Yang_Logo: -1617611528
+      Yang_Name: -1001775908
+      Yang_Sprite: -1666648341
+      Yun_Art1: 1118283437
+      Yun_Art2: 1854555223
+      Yun_Art3: 1791669977
+      Yun_Logo: 2119380374
+      Yun_Name: -956502605
+      Yun_Sprite: 1732061196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

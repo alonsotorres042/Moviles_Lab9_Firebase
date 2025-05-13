@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FighterArrow_Down
+  m_Controller: {fileID: 9100000, guid: fc7ce30fa8880454f9cbe84b41e2a78d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e072915ed668038429ca8ef54cc4fb41, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f28dbdffb00fcad4a9338bccf7565c6d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0952056dd6dab644ca0d318113474170, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2e1d84ee0a14f0943af6ebbc21ecdce8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3ec6b25d670f40243b1e83bad9968627, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bc88a21270bf9e44aad1ed341d740dca, type: 2}

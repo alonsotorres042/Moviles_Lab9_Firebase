@@ -1,0 +1,30 @@
+{
+    "project_info": {
+        "project_number": "838090198459",
+        "firebase_url": "https://the-datagame-default-rtdb.firebaseio.com",
+        "project_id": "the-datagame",
+        "storage_bucket": "the-datagame.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:838090198459:android:e41326f50cff677926489e",
+                "android_client_info": {
+                    "package_name": "com.TorresAlonso.Motores9"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAx0-qqYIG9PXBT2zxsh4Vm3UiGOLEK_y0"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
