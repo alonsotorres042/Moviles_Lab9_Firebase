@@ -1,15 +1,14 @@
-using Firebase;
-using Firebase.Database;
 using System;
+using Firebase.Database;
 using System.Collections;
 using UnityEngine;
+using Unity.Mathematics;
 
 
 public class DatabaseHandler : MonoBehaviour
 {
     private string userID;
     private DatabaseReference reference;
-
 
     private void Awake()
     {
@@ -30,13 +29,13 @@ public class DatabaseHandler : MonoBehaviour
     {
         Invoke(nameof(GetUserInfo), 1f);
     }
-    public void SaveInfo()
+    public void SaveInfo(PlayerData playerData)
     {
-        CreateUser();
+        CreateUser(playerData);
     }
-    private void CreateUser()
+    private void CreateUser(PlayerData playerData)
     {
-        User newUser = new User("Pedro", "Piedrito", 9781235);
+        User newUser = new User(playerData.Name, playerData.LastName, 99999999, playerData.lastScore); //User newUser = new User("Pedro", "Piedrito");
         string json = JsonUtility.ToJson(newUser);
 
 
@@ -122,12 +121,13 @@ public class User
     public string firstName;
     public string lastName;
     public int codeID;
+    public int lastScore;
 
-
-    public User(string firstName, string lastName, int codeID)
+    public User(string firstName, string lastName, int _codeID, int lastScore)
     {
         this.firstName = firstName;
         this.lastName = lastName;
-        this.codeID = codeID;
+        this.codeID = _codeID;
+        this.lastScore = lastScore;
     }
 }
