@@ -61,8 +61,6 @@ namespace Assets.FirebaseScripts
 
                 nameText.text = $"Name: {characterData.Name}";
                 descriptionText.text = $"Decription: {characterData.Description}";
-                attackText.text = $"Attack: {characterData.Attack.ToString()}";
-                defenseText.text = $"Defense: {characterData.Defense.ToString()}";
             });
         }
     }

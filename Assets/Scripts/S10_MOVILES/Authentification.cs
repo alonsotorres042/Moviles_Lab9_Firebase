@@ -7,20 +7,22 @@ using System.Threading.Tasks;
 using UnityEngine.Events;
 using Firebase.Firestore;
 using UnityEngine.Rendering;
-
+using TMPro;
 public class Authentification : MonoBehaviour
 {
-    [SerializeField] private string email;
-    [SerializeField] private string password;
 
     [Header("Bool Actions")]
     [SerializeField] private bool signUp = false;
     [SerializeField] private bool signIn = false;
-
     private FirebaseAuth _authReference;
 
     public UnityEvent OnLogInSuccesful = new UnityEvent();
     public UnityEvent OnLogOutSuccesful = new UnityEvent();
+
+    [SerializeField] private TMP_InputField emailInputField;
+    [SerializeField] private TMP_InputField passwordInputField;
+    private string email;
+    private string password;
 
     private void Awake()
     {
@@ -29,15 +31,19 @@ public class Authentification : MonoBehaviour
 
     public void LogIn()
     {
+        email = emailInputField.text;
+        password = passwordInputField.text;
         StartCoroutine(SignInWithEmail(email, password));
     }
     public void signUP()
     {
+        email = emailInputField.text;
+        password = passwordInputField.text;
         StartCoroutine(RegisterUser(email, password));
-
     }
     public void recoverPassword()
     {
+        email = emailInputField.text;
         StartCoroutine(RecoverPassword(email));
     }
     private IEnumerator RecoverPassword(string email)

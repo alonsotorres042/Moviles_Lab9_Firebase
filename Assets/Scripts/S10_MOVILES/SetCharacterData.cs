@@ -7,11 +7,9 @@ namespace Assets.FirebaseScripts
 {
     public class SetCharacterData : MonoBehaviour
     {
-        [SerializeField] private string _characterPath = "character_sheet/one_cool_dude";
+        [SerializeField] private string _characterPath = "correosInsanos/Alonso";
         [SerializeField] private TMP_InputField nameField;
-        [SerializeField] private TMP_InputField descriptionField;
-        [SerializeField] private TMP_InputField attackField;
-        [SerializeField] private TMP_InputField defenseField;
+        [SerializeField] private TMP_InputField lastNameField;
 
         [SerializeField] private Button submitButton;
 
@@ -30,9 +28,7 @@ namespace Assets.FirebaseScripts
             CharacterData characterData = new CharacterData
             {
                 Name = nameField.text,
-                Description = descriptionField.text,
-                Attack = int.Parse(attackField.text),
-                Defense = int.Parse(defenseField.text)
+                Description = lastNameField.text,
             };
 
             var firestore = FirebaseFirestore.DefaultInstance;
@@ -48,9 +44,5 @@ namespace Assets.FirebaseScripts
         public string Name { get; set; }
         [FirestoreProperty]
         public string Description { get; set; }
-        [FirestoreProperty]
-        public int Attack { get; set; }
-        [FirestoreProperty]
-        public int Defense { get; set; }
     }
 }

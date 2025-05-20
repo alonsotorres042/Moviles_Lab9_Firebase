@@ -1,11 +1,8 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
-using UnityEngine.UI;
-using UnityEngine.Audio;
 public class SceneGlobalManager : SingletonPersistent<SceneGlobalManager>
 {
-
     public void LoadSelector(string scene)
     {
         SceneManager.LoadSceneAsync(scene);
