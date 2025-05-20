@@ -11,37 +11,31 @@ namespace Assets.FirebaseScripts
     {
         [SerializeField] private string _characterPath = "character_sheet/one_cool_dude";
         [SerializeField] private TMP_Text nameText;
-        [SerializeField] private TMP_Text descriptionText;
-        [SerializeField] private TMP_Text attackText;
-        [SerializeField] private TMP_Text defenseText;
+        [SerializeField] private TMP_Text lastNameText;
 
-        [SerializeField] private Button submitButton;
-
-        //private ListenerRegistration _listenerRegistration;
+        private ListenerRegistration _listenerRegistration;
 
         private void Start()
         {
             var firestore = FirebaseFirestore.DefaultInstance;
 
-            /*_listenerRegistration = firestore.Document(_characterPath).Listen(snapshot => {
+            _listenerRegistration = firestore.Document(_characterPath).Listen(snapshot => {
 
                 CharacterData characterData = snapshot.ConvertTo<CharacterData>();
 
                 nameText.text = $"Name: {characterData.Name}";
-                descriptionText.text = $"Decription: {characterData.Description}";
-                attackText.text = $"Attack: {characterData.Attack.ToString()}";
-                defenseText.text = $"Defense: {characterData.Defense.ToString()}";
-            });*/
+                lastNameText.text = $"Decription: {characterData.LastName}";
+            });
         }
 
         private void OnEnable()
         {
-            submitButton.onClick.AddListener(ProcessData);
+            //  submitButton.onClick.AddListener(ProcessData);
         }
 
         private void OnDisable()
         {
-            submitButton.onClick.RemoveListener(ProcessData);
+            //submitButton.onClick.RemoveListener(ProcessData);
         }
 
         private void OnDestroy()
@@ -60,7 +54,7 @@ namespace Assets.FirebaseScripts
                 CharacterData characterData = task.Result.ConvertTo<CharacterData>();
 
                 nameText.text = $"Name: {characterData.Name}";
-                descriptionText.text = $"Decription: {characterData.Description}";
+                lastNameText.text = $"Decription: {characterData.LastName}";
             });
         }
     }

@@ -255,6 +255,52 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 136822212}
   m_CullTransparentMesh: 1
+--- !u!1 &185043123
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 185043124}
+  - component: {fileID: 185043125}
+  m_Layer: 0
+  m_Name: prueba
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &185043124
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 185043123}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 756.5755, y: 997.7107, z: -4.672115}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &185043125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 185043123}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37e9429727058754abb4ab6f5e7bd90c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _characterPath: nombresInsanos/Alonso
+  playerData: {fileID: 11400000, guid: 5ca16e436aa45d746a08e014d3fe9d17, type: 2}
 --- !u!1 &218673621
 GameObject:
   m_ObjectHideFlags: 0
@@ -1330,6 +1376,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 185043125}
+        m_TargetAssemblyTypeName: Assets.FirebaseScripts.SetCharacterData, Assembly-CSharp
+        m_MethodName: ProcessData
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1237931887
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1644,7 +1702,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.2079, y: -5.52, z: 10}
-  m_LocalScale: {x: 14.274656, y: 1, z: 1}
+  m_LocalScale: {x: 74.94195, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 519420032}
@@ -2025,6 +2083,18 @@ MonoBehaviour:
           m_StringArgument: MenuS9
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 185043125}
+        m_TargetAssemblyTypeName: Assets.FirebaseScripts.SetCharacterData, Assembly-CSharp
+        m_MethodName: ProcessData
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2061763774
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2156,3 +2226,4 @@ SceneRoots:
   - {fileID: 2089873593}
   - {fileID: 868837122}
   - {fileID: 1902400348}
+  - {fileID: 185043124}
